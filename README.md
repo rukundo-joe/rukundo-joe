@@ -1,6 +1,8 @@
 # 👨‍💻 Joseph BIZIMUNGU Rukundo
 
-**Co-Founder & CTO at Afrikabal** | **Software Developer at Spiderbit LTD** | Building **scalable** and **efficient solutions** across **mobile**, **web**, and **blockchain** | From Kigali, Rwanda 🌍 | Passionate about **cutting-edge technologies** and **innovation** | Let's **create the future** together!
+**Co-Founder & CTO at Afrikabal** | **Software Developer at Spiderbit LTD** | **Full Stack Developer** | Kigali, Rwanda 🌍
+
+Passionate about building **scalable, efficient**, and **user-friendly** solutions across **mobile, web**, and **blockchain** platforms. I'm always exploring **cutting-edge technologies** to drive innovation and deliver impactful software.
 
 ### 💡 **About Me**
 - 🔭 Currently serving as **Co-Founder and CTO** at [@Afrikabal](https://afrikabal.org/), driving technology strategy and product development
@@ -10,10 +12,10 @@
 - 🔧 Experienced with **CI/CD pipelines** using **Docker, Jenkins, GitHub Actions**, and managing infrastructure with **NGINX**
 - 🌍 Committed to continuous learning and contributing to **open-source** projects
 
-### 📚 **What I'm Working On**
-- Leading the development of innovative solutions at **Afrikabal**, connecting farmers to markets and enhancing e-commerce opportunities
-- Building decentralized apps (dApps) with **blockchain integration**
-- Enhancing my knowledge of **cloud computing** and **AI-driven applications**
+## 📚 **What I'm Working On**  
+- Leading **Afrikabal’s development**, focusing on connecting farmers with new markets and driving **blockchain-based fintech solutions**.  
+- Building **decentralized applications (dApps)** and integrating **blockchain technology** to drive transparency and efficiency in business models.  
+- Expanding my expertise in **cloud-native architectures**, **AI-driven applications**, and **serverless computing**.
 
 ### 🌐 **Technologies I Work With**
 - **Frontend**: React, Next.js, Vue.js, TypeScript, TailwindCSS  
