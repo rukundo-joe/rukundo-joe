@@ -1,38 +1,81 @@
-# 👨‍💻 Joseph BIZIMUNGU Rukundo
+# Joseph BIZIMUNGU Rukundo
 
-**Co-Founder & CTO at Afrikabal** | **Software Developer at Spiderbit LTD** | **Full Stack Developer** | Kigali, Rwanda 🌍
+CTO & Co-Founder — [building at Afrikabal](https://afrikabal.org)  
+Full Stack Engineer · AI Systems Developer · Infrastructure Architect  
+Based in Kigali, Rwanda
 
-Passionate about building **scalable, efficient**, and **user-friendly** solutions across **mobile, web**, and **blockchain** platforms. I'm always exploring **cutting-edge technologies** to drive innovation and deliver impactful software.
+---
 
-### 💡 **About Me**
-- 🔭 Currently serving as **Co-Founder and CTO** at [@Afrikabal](https://afrikabal.org/), driving technology strategy and product development
-- 🚀 Also contributing as a **Software Developer** at [@Spiderbit-Ltd](https://spiderbit.rw), solving real-world problems with tech
-- 🌱 Exploring **blockchain technologies** with **Solidity** and **Ethereum Smart Contracts**
-- 🛠️ Proficient in **Frontend** (React, TypeScript, Redux), **Backend** (Node.js, Express, NestJS), and **Mobile Development** (React Native, Expo, Flutter)
-- 🔧 Experienced with **CI/CD pipelines** using **Docker, Jenkins, GitHub Actions**, and managing infrastructure with **NGINX**
-- 🌍 Committed to continuous learning and contributing to **open-source** projects
+I design and build software systems that scale with clarity and operate with intent.
 
-## 📚 **What I'm Working On**  
-- Leading **Afrikabal’s development**, focusing on connecting farmers with new markets and driving **blockchain-based fintech solutions**.  
-- Building **decentralized applications (dApps)** and integrating **blockchain technology** to drive transparency and efficiency in business models.  
-- Expanding my expertise in **cloud-native architectures**, **AI-driven applications**, and **serverless computing**.
+My expertise spans full stack development, AI/ML applications, decentralized infrastructure, and DevOps automation. I focus on clean architecture, reproducible environments, and codebases that are both human-readable and production-hardened.
 
-### 🌐 **Technologies I Work With**
-- **Frontend**: React, Next.js, Vue.js, TypeScript, TailwindCSS  
-- **Backend**: Node.js, Go, Python (Django), NestJS, Express  
-- **Mobile Development**: React Native, Expo, Flutter  
-- **Databases**: PostgreSQL, MySQL, MongoDB, MariaDB  
-- **Blockchain**: Solidity, Ethereum Smart Contracts  
-- **APIs**: RESTful, GraphQL, Firebase  
-- **CI/CD & Infrastructure**: Docker, Jenkins, GitHub Actions, NGINX  
+I've also contributed to high-impact platforms with [engineering team at Spiderbit](https://spiderbit.rw), crafting solutions across finance, health, and digital operations.
 
-### 💻 **Current Interests**
-- Diving deeper into **blockchain development** and **smart contracts**
-- Experimenting with **cloud-native architectures** and **serverless computing**
-- Exploring **AI/ML integrations** in modern apps
+---
 
-### 📫 **Get in Touch**
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/joseph-bizimungu-rukundo-b2266923b/)
-- **GitHub**: [Check out my repositories](https://github.com/rukundo-joe)
+## Technical Domains
 
-Let's collaborate on **exciting projects** and **create impactful solutions** together!
+### Systems Architecture  
+Scalable service layers, modular monoliths, clean APIs, distributed event flows.  
+Resilience and observability built into every layer.
+
+### Full Stack Development  
+Modern frontends with React, TypeScript, and Next.js. Backend services in Node.js, NestJS, Go, and Python. Mobile interfaces using React Native and Flutter.
+
+### Artificial Intelligence  
+Designing intelligent systems powered by LLMs, embedding models, and custom pipelines.  
+Specializing in RAG, multilingual NLP, and low-latency vector search.
+
+### Blockchain Engineering  
+Smart contracts (Solidity, ink!), decentralized identity, cross-chain communication, and on/off-chain data bridges. IPFS integration and tokenized asset flows.
+
+### Infrastructure & Automation  
+CI/CD with Docker and GitHub Actions. IaC with Terraform.  
+Layered reverse proxies (NGINX, Traefik), full-stack monitoring (Prometheus, Grafana, Loki), and modular cloud-native environments.
+
+---
+
+## Toolchain
+
+**Frontend**  
+React · Next.js · Vue · TypeScript · TailwindCSS
+
+**Backend**  
+Node.js · NestJS · Go · Python (FastAPI, Django) · Express
+
+**Mobile**  
+React Native · Expo · Flutter
+
+**Blockchain**  
+Solidity · Hardhat · ink! · Cardano · IPFS · WAGMI · Ethers.js
+
+**AI/ML**  
+LangChain · HuggingFace Transformers · PyTorch · Whisper · Faiss · Weaviate · OpenAI · Scikit-learn
+
+**Infrastructure**  
+Docker · NGINX · GitHub Actions · Terraform · Traefik · Prometheus · Grafana · Loki
+
+**Databases & Caching**  
+PostgreSQL · MongoDB · Redis · MariaDB
+
+---
+
+## Areas I’m Deepening
+
+- Agentic workflows with LLMs and real-time vector memory  
+- Multi-network blockchain integrations and ZK-auth  
+- AI-native user experiences in emerging markets  
+- DevOps patterns for high-throughput, multi-tenant systems  
+- Data architecture for multilingual semantic retrieval
+
+---
+
+## Let’s Connect
+
+Find me on [GitHub](https://github.com/rukundo-joe)  
+Reach out via [LinkedIn](https://www.linkedin.com/in/joseph-bizimungu-rukundo-b2266923b)
+
+---
+
+*I write systems with discipline, build infrastructure with foresight, and design intelligence into the tools we use.*
